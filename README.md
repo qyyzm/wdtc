@@ -12,7 +12,7 @@
 <a href='https://github.com/qyyzm/wdtc/blob/master/a3.md'>第三章：智识 </a><br>
 <a href='https://github.com/qyyzm/wdtc/blob/master/a4_a.md'>第四章（上）：概要 </a><br>
 <a href='https://github.com/qyyzm/wdtc/blob/master/a4_b.md'>第四章（下）：践履 </a><br>
-<a href='https://github.com/qyyzm/wdtc/blob/master/a4_a.md'>第五章：世用 </a><br>
+<a href='https://github.com/qyyzm/wdtc/blob/master/a5.md'>第五章：世用 </a><br>
 <br>
 <hr>
 <br>
