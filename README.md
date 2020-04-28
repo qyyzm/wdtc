@@ -14,11 +14,11 @@
 <a href='https://github.com/qyyzm/wdtc/blob/master/a4_b.md'>第四章（下）：践履 </a><br>
 <a href='https://github.com/qyyzm/wdtc/blob/master/a5.md'>第五章：世用 </a><br>
 <br>
-<hr>
 <br>
 <br>下面地址，是全文的PDF文件，可下载。最好不要直接打开，文件较大，直接打开会很慢。
 https://github.com/qyyzm/wdtc/blob/master/images/%E6%98%A7%E9%81%93%E8%B0%AD%E4%B8%9B%E5%85%AC%E5%BC%80%E7%A8%BF.pdf
-
+<br><br>
+<hr>
 2018-10-25
 
 准备将自己多年来撰写的与国学相关的文档，逐步转移到这儿来。
