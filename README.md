@@ -7,16 +7,16 @@
 
 到目前为止，整个《昧道谭丛》已定稿。虽然已修改多次，但文中仍然有个别病句及错别字。印出的部分纸质书，已分享给了周边朋友，但还有很多不认识的朋友，在网上留言希望看一看，所以，这里公开这个版本。注意，这是公开版，与未公开版比较，有删节。公开的目录，如下：
 
-
-
-
-
-
-
-
-
-
-
+<a href='https://github.com/qyyzm/wdtc/blob/master/a1.md'>第一章：前引 </a><br>
+<a href='https://github.com/qyyzm/wdtc/blob/master/a2.md'>第二章：求道 </a><br>
+<a href='https://github.com/qyyzm/wdtc/blob/master/a3.md'>第三章：智识 </a><br>
+<a href='https://github.com/qyyzm/wdtc/blob/master/a4_a.md'>第四章：概要 </a><br>
+<a href='https://github.com/qyyzm/wdtc/blob/master/a4_b.md'>第四章：践履 </a><br>
+<a href='https://github.com/qyyzm/wdtc/blob/master/a4_a.md'>第五章：世用 </a><br>
+<br>
+<hr>
+<br>
+<br>
 
 
 2018-10-25
@@ -27,4 +27,3 @@
 
 废话少说，准备今年内完成《昧道谭丛》全稿的文字整理。
 
-<a href='https://github.com/qyyzm/guoxue_xilie/blob/master/%E6%98%A7%E9%81%93%E8%B0%AD%E4%B8%9B%E7%A8%BF%E6%80%BB%E7%A8%BF.md'>《昧道谭丛》总稿已完成，想看的人戳这儿。</a>
